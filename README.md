@@ -39,7 +39,7 @@ The model used for probabilistic analysis for COVID-19 infection is **Logistic R
 <br><br>No algorithm is generally the best one but in this case, as the output of this problem statement will give either Yes/No, so LR is preferred for Binary Classification. On the other hand, tree based approach were much slower and accuracy is lower than LR.
 
 ### Notebook:
-Check the notebook for the detailed analysis, [here](https://github.com/iSumitBanik/COVID19-Probability-Symptoms-Checker/blob/master/COVID19%20Symptoms%20Prediction.ipynb) 
+Check the notebook for the detailed analysis, [here](https://github.com/iSumitBanik/COVID19-Identification-using-ML/blob/master/COVID19%20Symptoms%20Prediction.ipynb) 
 
 ### Visual Representations:
 ![](https://raw.githubusercontent.com/iSumitBanik/COVID19-Identification-using-ML/master/images_analysis/SC_1.png)
