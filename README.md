@@ -11,7 +11,7 @@ intelligence framework ](https://www.cambridge.org/core/services/aop-cambridge-c
 ### Datasets
 
 1. [Patient Medical Data for Novel Coronavirus COVID-19](https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19)
-2. [Cleaned Dataset](https://github.com/iSumitBanik/COVID19-Probability-Symptoms-Checker/raw/master/COVID-19/covid_final_data.csv)
+2. [Cleaned Dataset](https://github.com/iSumitBanik/COVID19-Identification-using-ML/raw/master/COVID-19/covid_final_data.csv)
 
 ### Features
 
@@ -42,9 +42,9 @@ The model used for probabilistic analysis for COVID-19 infection is **Logistic R
 Check the notebook for the detailed analysis, [here](https://github.com/iSumitBanik/COVID19-Probability-Symptoms-Checker/blob/master/COVID19%20Symptoms%20Prediction.ipynb) 
 
 ### Visual Representations:
-![](https://raw.githubusercontent.com/iSumitBanik/COVID19-Probability-Symptoms-Checker/master/images_analysis/SC_1.png)
-![](https://raw.githubusercontent.com/iSumitBanik/COVID19-Probability-Symptoms-Checker/master/images_analysis/SC_2.png)
-![](https://raw.githubusercontent.com/iSumitBanik/COVID19-Probability-Symptoms-Checker/master/images_analysis/SC_3.png)
+![](https://raw.githubusercontent.com/iSumitBanik/COVID19-Identification-using-ML/master/images_analysis/SC_1.png)
+![](https://raw.githubusercontent.com/iSumitBanik/COVID19-Identification-using-ML/master/images_analysis/SC_2.png)
+![](https://raw.githubusercontent.com/iSumitBanik/COVID19-Identification-using-ML/master/images_analysis/SC_3.png)
 
 #### Social Media
 Follow me on [Twitter](https://twitter.com/TheSumitBanik)
