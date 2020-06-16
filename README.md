@@ -1,10 +1,13 @@
 # COVID19-Probability-Symptoms-Checker
 
-![](https://img.shields.io/github/languages/code-size/iSumitBanik/COVID19-Probability-Symptoms-Checker?style=flat-square) ![](https://img.shields.io/github/stars/iSumitBanik/COVID19-Probability-Symptoms-Checker?style=flat-square) ![](https://img.shields.io/github/last-commit/iSumitBanik/COVID19-Probability-Symptoms-Checker?style=flat-square) ![](https://img.shields.io/github/followers/iSumitBanik?style=flat-square)
+![](https://img.shields.io/github/languages/code-size/iSumitBanik/COVID19-Identification-using-ML?style=flat-square) ![](https://img.shields.io/github/stars/iSumitBanik/COVID19-Identification-using-ML?style=flat-square) ![](https://img.shields.io/github/last-commit/iSumitBanik/COVID19-Identification-using-ML?style=flat-square) ![](https://img.shields.io/github/followers/iSumitBanik?style=flat-square)
 
 ### Problem Setup
 We all know, as the cases count are increasing day by day bulk testing isn't getting feasible and faster at this rate. This inspired me to create a probabilistic analysis whether a person is infected or not keeping in mind with the list of symptoms as said by the World Health Organization (WHO). 👨🏻‍⚕️
 
+### Research Paper
+The Research Paper can be found here: [Identification of COVID-19 can be quicker through artificial
+intelligence framework ](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7151059680918EF9B8CDBCC4EF19C292/S0899823X20000616a.pdf/identification_of_covid19_can_be_quicker_through_artificial_intelligence_framework_using_a_mobile_phonebased_survey_in_the_populations_when_citiestowns_are_under_quarantine.pdf)
 ### Datasets
 
 1. [Patient Medical Data for Novel Coronavirus COVID-19](https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19)
